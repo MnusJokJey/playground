@@ -1,0 +1,49 @@
+@import url('https://fonts.google.com/specimen/Ubuntu');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    background: wheat;
+}
+.wrapper{
+    width: 330px;
+    padding: 2rem 1rem;
+    margin: 50px auto;
+    background-color:white;
+    border-radius: 10px;
+    text-align: 0 20px 35px rgba(0, 0, 0, 0.1);
+}
+img{
+    border-radius: 50%;
+    margin-left: 90px;
+
+}
+input{
+    width: 92%;
+    outline: none;
+    border: 1px solid rgb(211, 181, 124);
+    padding: 12px 20px;
+    margin-bottom: 10px;
+    margin-left: 12px;
+    border-radius: 20px;
+    background:white;
+}
+button{
+    font-size: 1rem;
+    margin-top: 1.8rem;
+    margin-left: 12px;
+    padding: 10px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    width: 90%;
+    color: #ffff;
+    cursor: pointer;
+    background: rgb(211, 181, 124);
+}
+button{
+    color: black;
+}
